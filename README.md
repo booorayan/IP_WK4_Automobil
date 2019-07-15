@@ -14,5 +14,5 @@ For this project, pandas and numpy were the libraries employed.
 ## Support and contact details
 Feel free to help improve the code in any way possible. Reach me at boorayo@yahoo.com
 ### License
-*{MIT}*
-Copyright (c) {2019} 
+*MIT*
+Copyright (c) 2019
